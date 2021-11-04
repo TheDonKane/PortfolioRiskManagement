@@ -13,5 +13,5 @@ Contributions, issues and feature requests are welcome.<br />
 
 ## 📝 License
 
-Copyright © 2019 [Luke Shirley](https://github.com/Lukeshirleyx).<br />
+
 This project is [MIT] licensed.
