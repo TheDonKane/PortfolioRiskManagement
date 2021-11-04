@@ -5,14 +5,6 @@ Quantitative solution to portfolio management in Python based on Figure 26.1 fro
 
 <h1 align="center"><img src="Images/diagram.jpeg" width="500" align="center"></h1>
 
-<h4><img src="Images/Luke.png" alt="Avatar" align="center" width="100"> Luke Shirley - Quantitative Researcher</h4>
-
-- Twitter:<a href="https://twitter.com/lukeshirleyx">
-    <img alt="Twitter: lukeshirleyx" src="https://img.shields.io/twitter/follow/lukeshirleyx.svg?style=social" target="_blank" align="center" />
-  </a>
-- GitHub:<a href="https://github.com/Lukeshirleyx">
-    <img alt="GitHub: lukeshirleyx" src="https://img.shields.io/github/followers/lukeshirleyx?style=social" target="_blank" align="center" />
-  </a>
 
 ## 🤝 Contributing
 
